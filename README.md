@@ -13,14 +13,20 @@ Dashboard Sheet: A visual representation of sales data, featuring graphs and cha
 Pivot Table Sheets:
 
 1.Pivot_SalesByCountry: Displays sales data segmented by country.
+
+
 ![image](https://github.com/user-attachments/assets/dd38b632-a2c0-417a-8599-907523e0c492)
 
 
 2.Pivot_SalesTrends: Shows total sales trends over time for different coffee types.
+
+
 ![image](https://github.com/user-attachments/assets/21abbe82-d280-4eb7-81be-d6b4fe7d5b97)
 
 
 3.Pivot_TopCustomers: Highlights the top 5 customers based on their purchases.
+
+
 ![image](https://github.com/user-attachments/assets/8c38f5b3-c011-49b2-8b45-1c3a075d87c4)
 
 Data Tables:
