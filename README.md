@@ -29,16 +29,26 @@ Pivot Table Sheets:
 
 ![image](https://github.com/user-attachments/assets/8c38f5b3-c011-49b2-8b45-1c3a075d87c4)
 
+
+
+
 Data Tables:
+
 
 1.Orders Sheet: Contains order details such as date, product, quantity, price, and customer ID.
 
+
 2.Customers Sheet: Stores customer information, including names, locations, and loyalty card status.
+
 
 3.Products Sheet: Lists coffee products with details on roast type, size, and pricing.
 
 
-Dashboard Features
+
+
+Dashboard Features:
+
+
 
 
 Total Sales Over Time: A line chart representing coffee sales trends across different periods and coffee types.
@@ -64,14 +74,11 @@ Coffee Size (0.2 kg, 0.5 kg, 1.0 kg, 2.5 kg)
 
 Loyalty Card Status (Yes/No)
 
+
+
+
+
 DASHBOARD: 
-
-
-![Screenshot 2025-02-28 004008](https://github.com/user-attachments/assets/c6efda63-e158-4c23-84ec-2c8d9a6ff176)
-
-
-
-
 
 
 
