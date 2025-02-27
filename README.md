@@ -87,9 +87,21 @@ Loyalty Card Status (Yes/No)
 DASHBOARD VIDEO :
 
 
-
-
 https://github.com/user-attachments/assets/d7690b85-8f87-427e-8d65-656175cdf21c
+
+
+
+
+
+How to Use
+
+1. Open the Excel file and navigate to the Dashboard sheet.
+
+2. Utilize the slicers (filters) to customize the data view.
+
+3. Refer to the pivot table sheets for detailed aggregated insights.
+
+4. Cross-check raw data in the Orders, Customers, and Products sheets for additional analysis.
 
 
 
