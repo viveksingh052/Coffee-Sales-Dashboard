@@ -32,7 +32,7 @@ Pivot Table Sheets:
 
 
 
-Data Tables:
+a) Data Tables:
 
 
 1.Orders Sheet: Contains order details such as date, product, quantity, price, and customer ID.
@@ -52,7 +52,7 @@ Data Tables:
 
 
 
-Dashboard Features:
+b) Dashboard Features:
 
 
 
@@ -84,7 +84,7 @@ Loyalty Card Status (Yes/No)
 
 
 
-DASHBOARD: 
+DASHBOARD VIDEO :
 
 
 
